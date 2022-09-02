@@ -1,10 +1,14 @@
-# Это тест маркдауна
+# Первый учебный проект Surfboard
 
-+ Смотрю как работет гит
-+ Знакомлюсь с основными командами
+Что удалось узнать:
++ БЭМ
++ SASS, Flexbox,  Figma
++ Git, Terminal
+
+Ссылка на github pages:
 
 ```bash
 
-$git clone git@github...
+https://bandalg0m.github.io/surfboard/
 
 ```
