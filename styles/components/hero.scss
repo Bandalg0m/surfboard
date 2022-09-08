@@ -1,0 +1,42 @@
+.hero {
+    background: url(/source/img/hero-bg.png) center no-repeat,
+    url(/source/img/Rectangle.png) -12px -10px no-repeat;  
+    background-size: 100% 100%;
+    height: 100vh;
+    max-width: 100%;
+    min-height: 650px;
+    color: $white;
+//    font-family: 'Algreya Sans';
+}
+
+.hero__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.hero_title-section {
+    width: 50%;
+    
+}
+
+
+.hero__main-title {
+    font-size: 48px;
+    line-height: 1.2;
+    font-weight: 700;
+    margin-bottom: 17px;
+    text-transform: uppercase;
+}
+
+.hero__title-desc {
+    font-size: 21px;
+    font-weight: 400;
+    font-family: 'Alegreya Sans';
+    font-style: normal;
+    line-height: 25px;
+    margin-bottom: 53px;
+    padding-right: 10%;
+
+}
