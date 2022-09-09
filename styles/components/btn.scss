@@ -6,15 +6,14 @@
     text-transform: uppercase;
     padding: 21px 41px;
     border-radius: 100px;
+}
 
-    &_theme_yellow {
-        background-color: $yellow;
-        color: $black;
-        
-        &:hover {
-            background-color: $gray;
-            color: $yellow;
-        }
+.btn--theme--yellow {
+    background-color: $yellow;
+    color: $black;
+
+    &:hover {
+        background-color: $gray;
+        color: $yellow;
     }
-
 }
